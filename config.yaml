@@ -1,0 +1,4 @@
+
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=objedeteazurestorage;AccountKey=AzBR36RREUJFuUCEZ56y/7t1QSmNRS4fysbptB7OmwOeIzhVGvG5SZyiBZSqHvqM2CjVNNhyFv4Qf0P5HJ0rPQ==;EndpointSuffix=core.windows.net"
+project_files_container_name: "projectfiles"
+source_folder: "D:\Object_Detection_Files_Live _Capturing"	
